@@ -7,3 +7,6 @@ here are some new changes after first commit
 second line added
 
 It now includes steps for GitHub
+
+Some important changes to the README.md
+Ende
